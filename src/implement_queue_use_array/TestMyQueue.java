@@ -16,5 +16,9 @@ public class TestMyQueue {
         queue.enqueue(45);
         queue.enqueue(23);
         queue.enqueue(435);
+
+        for(int i = 0; i < 4; i++){
+            System.out.println(queue.queueArr[i]);
+        }
     }
 }
