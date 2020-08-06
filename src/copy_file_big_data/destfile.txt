@@ -1,0 +1,38 @@
+1. Ca bệnh 718, nữ, 67 tuổi, quê quán: Đà Nẵng, đã tử vong tối 5/8, được xét nghiệm khẳng định dương tính với Sars-CoV-2 cuối giờ sáng 6/8.
+
+2. Ca bệnh  724-729, 731-743 (BN718; BN724-729 và BN731-743): tại Đà Nẵng, tuổi từ 1-69, gồm: 9 F1, 5 bệnh nhân, 3 người chăm sóc, 1 nhân viên y tế, 1 tại quận Thanh Khê, Đà Nẵng (đang tiếp tục điều tra).
+
+3. Ca bệnh 719-723 VÀ 730 (BN719 -723 và BN730): tại Quảng Nam độ tuổi từ 30-51, liên quan Đà Nẵng, gồm 2 bệnh nhân, 3 F1 (BN562, BN456, BN592), 1 người chăm sóc tại Bệnh viện Đà Nẵng. Hiện các bệnh nhân được cách ly, điều trị tại Bệnh viện Đa khoa Trung ương Quảng Nam.
+
+4. Ca bệnh 744 (BN744): tại Bắc Giang, nữ, 7 tuổi, F1 của BN673, BN674, cùng nhóm du lịch tại Đà Nẵng với BN675-678 tại Lạng Sơn. Hiện bệnh nhân được cách ly, điều trị tại Bệnh viện Bệnh Nhiệt đới Trung ương cơ sở 2.
+
+5. Ca bệnh 745-747 (BN745-747): tại Bà Rịa - Vũng Tàu, liên quan chuyến Tàu chở gas Texiana từ Qatar về Cảng Vũng Tàu ngày 28/7, cách ly, lấy mẫu ngay trên tàu sau nhập cảnh. Kết quả xét nghiệm lần 2 phát hiện thêm 3 trường hợp dương tính với SARS-CoV-2 (trước đó đã có 6 ca dương tính). Hiện bệnh nhân cách ly, điều trị tại Trung tâm Y tế huyện Long Điền, tỉnh Bà Rịa - Vũng Tàu.
+
+1. Tổng số ca mắc: 747 ca
+
+- Tính đến 18h ngày 06/8: Việt Nam, có tổng cộng 747 ca mắc COVID-19, trong đó 312 ca nhiễm nhập cảnh được cách ly ngay.
+
+- Số lượng ca mắc mới trong cộng đồng tính từ ngày 25/7 đến nay: 295 ca.
+
+- Tính từ 6h đến 18h ngày 06/8: 30 ca mắc mới.
+
+2. Số người cách ly: Tổng số người tiếp xúc gần và nhập cảnh từ vùng dịch đang được theo dõi sức khỏe (cách ly): 170.457, trong đó:
+
+
+- Cách ly tập trung tại bệnh viện: 6.717
+
+- Cách ly tập trung tại cơ sở khác: 23.356
+
+- Cách ly tại nhà, nơi lưu trú: 140.384
+
+3. Tình hình điều trị: Theo báo cáo của Tiểu ban Điều trị Ban chỉ đạo Quốc gia phòng, chống dịch COVID-19:
+
+- 11 ca được công bố khỏi bệnh tại Bệnh viện Đa khoa Bà Rịa - Vũng Tàu: BN374 (nam, 35 tuổi), BN376 (nam, 35 tuổi), BN377 (nam, 32 tuổi), BN378 (nam, 35 tuổi), BN379 (nam, 31 tuổi), BN380 (nam, 30 tuổi), BN381 (nam, 55 tuổi), BN382 (nam, 64 tuổi), BN384 (nam, 27 tuổi), BN403 (nam, 55 tuổi), BN408 (nam, 42 tuổi).
+
+- Số ca âm tính lần 1 với SARS-CoV-2: 22 ca.
+
+- Số ca âm tính lần 2 trở lên với SARS-CoV-2: 11 ca.
+
+- Số ca tử vong: 10 ca.
+
+- Số ca điều trị khỏi: 392 ca.
