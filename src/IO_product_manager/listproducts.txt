@@ -1,0 +1,5 @@
+"100","vios","toyota","500","sx trong nuoc"
+"101","camry","toyota","1000","xe nhap khau"
+"102","Vinfast Lux","Vinfast","1500","sx trong nuoc"
+"103","Vinfast Fadil","Vinfast","400","sx trong nuoc"
+"104","C200","Merc","1400","xe nhap khau"
